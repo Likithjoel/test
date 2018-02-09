@@ -34,10 +34,11 @@ This example will serve a welcome page and the current hit count as stored in a 
 
 ### OpenShift Origin v3 setup
 
+
 There are four methods to get started with OpenShift v3:
 
   - Running a virtual machine with Vagrant
-  - Starting a Docker container
+  - Starting a Docker 
   - Downloading the binary
   - Running an Ansible playbook
 
